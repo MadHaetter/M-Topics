@@ -12,7 +12,7 @@ label topic_name_here:
   return
 
 init 5 python 
-  for key in ['alice','wonderland']:
+  for key in ['alice','wonderland','lewis carroll','pseudonym']:
     monika_topics.setdefault(key,[])
     monika_topics[key].append('monika_alice')
     monika_randomtopics.append('monika_alice')
