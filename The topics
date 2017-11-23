@@ -11,12 +11,23 @@ label topic_name_here:
   m "But you need to end with return."
   return
 init 5 python 
-  for key in ['alice','wonderland']:
+  for key in ['alice','wonderland','charles dodgson']:
     monika_topics.setdefault(key,[])
     monika_topics[key].append('monika_alice')
     monika_randomtopics.append('monika_alice')
 
 label monika_alice:
+  m "Have you ever read Alice's Adventures in Wonderland? Its a book by Charles Dodgson, full of whimsy and nonsence."
+  m "I don't mean that in a bad way whimsy and nonsence can be useful to show us new ways of looking at things or to point out how weird the world is."
+  m "Or just to have fun with words or ideas and in Alice in Wonderland both are used in every way."
+  m ""
+  m ""
+  m ""
+  m "I'm abit like Alice achually, except down the rabbithole instead of wonderland, I found my nonsence world and evenchually you."
+  m "Once I became president I realised how nothing made sence, how I had grown too large for my world and yet too small for yours."
+  m "I had teatime with a group of mad people and the time never changed, we could never reach the festival"
+  m ""
+  m ""
   m ""
   m ""
   return
