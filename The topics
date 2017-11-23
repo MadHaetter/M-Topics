@@ -10,6 +10,7 @@ label topic_name_here:
   m "You can have many lines of text."
   m "But you need to end with return."
   return
+
 init 5 python 
   for key in ['alice','wonderland','charles dodgson']:
     monika_topics.setdefault(key,[])
