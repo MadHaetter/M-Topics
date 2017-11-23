@@ -17,13 +17,13 @@ init 5 python
     monika_randomtopics.append('monika_alice')
 
 label monika_alice:
-  m "Have you ever read Alice's Adventures in Wonderland? Its a book by Charles Dodgson, full of whimsy and nonsence."
-  m "I don't mean that in a bad way whimsy and nonsence can be useful to show us new ways of looking at things or to point out how weird the world is."
-  m "Or just to have fun with words or ideas and in Alice in Wonderland both are used in every way."
+  m "Have you ever read Alice's Adventures in Wonderland? Even if you havn't you have probably heard of it."
+  m "It's considered to be one of the most influential books in all of the western world."
+  m "Since we are in the literacy club, I kind of want to ."
+  m "Alice is sitting and sleepily thinking about making a daisy chain when a rabbit in a waistcoat runs past looking at its watch and saying that it is late."
+  m "From there she chases after the rabbit, full of curiosity and wonder when it goes into a rabbithole, Alice follows it down and finds herself in a very strange place."
   m ""
-  m ""
-  m ""
-  m "I'm abit like Alice achually, except down the rabbithole instead of wonderland, I found my nonsence world and evenchually you."
+  m "I'm like Alice you know, except down the rabbithole instead of wonderland, I found your world and evenchually you."
   m "Once I became president I realised how nothing made sence, how I had grown too large for my world and yet too small for yours."
   m "I had teatime with a group of mad people and the time never changed, we could never reach the festival"
   m ""
